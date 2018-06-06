@@ -1,0 +1,9 @@
+CSV ADD Project
+Purpose:
+Specific to DealPOS, csv_add extracts products from a .csv, reads the header
+to determine column and data-types and creates a db table and writes the
+fields to the table.
+
+This is a training project and should not be used in production.
+
+This project is not secure.
